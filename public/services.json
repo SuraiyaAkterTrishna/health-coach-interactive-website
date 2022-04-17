@@ -2,43 +2,22 @@
     {
         "id": 1,
         "name": "Personalized Nutrition Plan",
-        "price": "2000",
-        "description": "With this plan you`ll be able to do your exercises effectively even without personal trainer`s supervision.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
+        "price": "999",
+        "description": "After a thorough analysis and research of your health and physical condition and also of your needs, I will be able to compose a detailed day-to-day programme.",
+        "img": "https://i.ibb.co/D4G1MZ4/service1.png"
     },
     {
         "id": 2,
         "name": "Personalized Exercise Program",
-        "price": "3000",
-        "description": "After a thorough analysis and research of your health and physical condition and also of your needs.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
+        "price": "899",
+        "description": "With this plan, I`ll be able to compose a detailed day-to-day programme of exercises with the number of hours to spend on required body areas.",
+        "img": "https://i.ibb.co/WyCsnpn/service2.png"
     },
     {
         "id": 3,
-        "name": "Personalized Exercise Program",
-        "price": "3000",
-        "description": "After a thorough analysis and research of your health and physical condition and also of your needs.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
-    },
-    {
-        "id": 4,
-        "name": "Personalized Exercise Program",
-        "price": "3000",
-        "description": "After a thorough analysis and research of your health and physical condition and also of your needs.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
-    },
-    {
-        "id": 5,
-        "name": "Personalized Exercise Program",
-        "price": "3000",
-        "description": "After a thorough analysis and research of your health and physical condition and also of your needs.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
-    },
-    {
-        "id": 6,
         "name": "Individual Routine Program",
-        "price": "4000",
-        "description": "I will be able to compose a detailed day-to-day programme of exercises with the number of hours to spend on required body areas.",
-        "img": "https://i.ibb.co/RT3pzV1/sport-lifestyle-fitness-male-training-1.png"
+        "price": "699",
+        "description": "Our one-on-one health coaching is effective way that promotes an incredibly effective tool to identify, enact and sustain improvements in your life.",
+        "img": "https://i.ibb.co/kckrHVp/service3.png"
     }
 ]

@@ -9,9 +9,9 @@ const Service = ({ service }) => {
                 <img src={img} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
-                    <p className="card-text">Price: {price}</p>
+                    <p className="card-text">Price: ${price}</p>
                     <p className="card-text"><small className="text-muted">{description}</small></p>
-                    <button>Check Out</button>
+                    <button className="service-btn">Check Out</button>
                 </div>
             </div>
         </div>

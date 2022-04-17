@@ -1,9 +1,24 @@
-/* .service {
-    border: 1px solid lightgray;
-    border-radius: 10px;
-    padding-bottom: 10px;
-    text-align: center;
+.service-btn {
+    outline: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 10px 25px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background-color: #eead07;
+    border: 2px solid #eead07;
+    font-size: 15px;
+    border-radius: 15px;
 }
-img{
-    width: 100%;
-} */
+.service-btn:hover {
+    outline: none;
+    font-weight: bold;
+    padding: 10px 25px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: #fff;
+    border: 2px solid #cb9304;
+    color: #cb9304;
+}
