@@ -1,24 +1,20 @@
 .banner-btn {
-    outline: 2px solid #ffffff;
+    outline: none;
     color: rgb(255, 252, 252);
     font-weight: bold;
     padding: 10px 25px;
-    letter-spacing: 1px;
     cursor: pointer;
     background-color: transparent;
-    border: 1px solid #ffffff;
-    font-size: 17px;
+    border: 2px solid #ffffff;
     border-radius: 15px;
 }
 .banner-btn:hover {
-    outline: 1px solid #e6ac1b;;
+    outline: none;
     font-weight: bold;
     padding: 10px 25px;
-    letter-spacing: 1px;
     cursor: pointer;
-    font-size: 17px;
     border-radius: 15px;
-    background-color: #e6ac1b;
-    border: 1px solid #e6ac1b;
-    color: #ffffff;
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+    color: #eead07;
 }

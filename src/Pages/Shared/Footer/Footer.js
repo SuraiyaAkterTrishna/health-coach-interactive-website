@@ -5,11 +5,9 @@ const Footer = () => {
         return new Date().getFullYear();
     };
     return (
-        <div>
-            <footer>
-                <p>copyright @{getCurrentYear()}</p>
+            <footer className='container text-secondary text-center'>
+                <p>Copyright @{getCurrentYear()} | Health Coach. All Rights Reserved</p>
             </footer>
-        </div>
     );
 };
 
