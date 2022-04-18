@@ -41,8 +41,12 @@ const Login = () => {
   };
   const handleForgetPassword = async () => {
     const email = emailRef.current.value;
-    await sendPasswordResetEmail(email);
-    toast('Password reset email send! Please check your email.');
+    if(email){
+      await sendPasswordResetEmail(email);
+      toast('Password reset email send! Please check your email.');
+    } else {
+      toast('Please Enter Your Email Address.');
+    }
   }
   const navigateRegister = event => {
     navigate('/register');
