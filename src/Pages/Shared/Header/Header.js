@@ -25,12 +25,12 @@ const Header = () => {
             <Nav>
               {
                 user ?
-                <button onClick={handleSignOut}>Sign Out</button> 
+                <button onClick={handleSignOut} className='btn btn-link text-white text-decoration-none'>Sign Out</button> 
                 :
                 <Nav.Link eventKey={2} href="/login">
                  Log in
                 </Nav.Link>
-              }
+              } 
               
             </Nav>
           </Navbar.Collapse>
