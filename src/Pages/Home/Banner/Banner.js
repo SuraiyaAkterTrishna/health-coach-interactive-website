@@ -19,7 +19,7 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                        <h1>Hi I am Ashley Graff!!</h1>
+                        <h1>Hi I am Katrina Kaif</h1>
                         <p>Your Personal Coach For Your Better Life.</p>
                         <button className="banner-btn">About Me</button>
                 </Carousel.Caption>
