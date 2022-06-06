@@ -31,7 +31,7 @@ const Banner = () => {
                     alt="Second slide"
                 />
                 <Carousel.Caption>
-                    <h1>Hi I am Ashley Graff!!</h1>
+                    <h1>Hi I am Jennifer Graff!!</h1>
                     <p>Your Personal Coach For Your Better Life.</p>
                     <button className="banner-btn">About Me</button>
                 </Carousel.Caption>
